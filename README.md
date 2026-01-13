@@ -84,6 +84,7 @@ This project is designed for **practical career strategy**, not vanity dashboard
 │   └── personal/               # User-defined targets & notes
 ├── requirements.txt
 └── README.md
+```
 
 # LinkedIn Smart Recommender
 
