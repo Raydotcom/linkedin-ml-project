@@ -1,4 +1,4 @@
-# 🔗 LinkedIn Smart Recommender
+# 🔗 LinkedIn Smart Recommender - Rayan HOBBALLAH, Nathan GEHIN, Kevin KONAN
 
 An intelligent **LinkedIn recommendation system** built with **Streamlit**, designed to analyze LinkedIn data and deliver **actionable, ranked recommendations** for jobs, contacts, companies, and content using **NLP-based scoring**.
 
