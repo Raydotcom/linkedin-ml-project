@@ -145,6 +145,8 @@ This parameter:
 
 ### 1️⃣ Clone the repository
 ```bash
+git clone [https://github.com/yourusername/linkedin-smart-recommender.git](https://github.com/yourusername/linkedin-smart-recommender.git)
+cd linkedin-smart-recommender
 ```
 ### 2️⃣ Install dependencies
 pip install -r requirements.txt
