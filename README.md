@@ -143,11 +143,9 @@ This parameter:
 
 ## ▶️ How to Run Locally
 
-##
-
 ### 1️⃣ Clone the repository
 ```bash
-
+```
 ### 2️⃣ Install dependencies
 pip install -r requirements.txt
 
